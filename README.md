@@ -1,9 +1,19 @@
+<table>
+  <tr>
+    <td valign="top">
+      
 ### Ciao 🌱
-- 🔭 I’m currently working on weather related applications for neural networks
+- 🔭 I’m currently working on weather related applications of neural networks
+- :dash: Exploring applications in Downscaling, Forecasting, Prediction of extreme events
+- :high_brightness: Working with U-net, DDIM, GAN and VIT 
+  
+  </td>
+    <td>
+      <img src="https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif" alt="Your Image Description" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/flatgif.gif" width="550" title="hover text">
-</p>
 
 <!--
 **fmerizzi/fmerizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
