@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on weather related applications of neural networks
+- 🌱 I’m currently learning ...
 
+
+![Visitor Count](https://profile-counter.glitch.me/fmerizzi/count.svg)
 <!--
 **fmerizzi/fmerizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
