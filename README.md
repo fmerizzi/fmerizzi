@@ -1,4 +1,4 @@
-r### Ciao 🌱, I’m currently working on weather related applications of neural networks
+### Ciao 🌱, I’m currently working on weather related applications of neural networks
 <p align="center">
   <img src="https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif" width="150" title="hover text">
 </p>
