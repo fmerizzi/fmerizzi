@@ -9,7 +9,7 @@
   
   </td>
     <td>
-      <img src="https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif" alt="Your Image Description" width="300"/>
+      <img src="https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif" alt="Your Image Description" width="200"/>
     </td>
   </tr>
 </table>
