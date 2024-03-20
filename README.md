@@ -1,6 +1,9 @@
 ### Ciao 🌱
 - 🔭 I’m currently working on weather related applications of neural networks
-![](https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif)
+<p align="right">
+  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif" width="150" title="hover text">
+</p>
+
 <!--
 **fmerizzi/fmerizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
