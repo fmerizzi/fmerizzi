@@ -1,6 +1,8 @@
-### Ciao 🌱, I’m currently working on weather related applications of neural networks
+### Ciao 🌱
+- 🔭 I’m currently working on weather related applications of neural networks
+
 <p align="left">
-  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/flatgif.gif" width="800" title="hover text">
+  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/flatgif.gif" width="710" title="hover text">
 </p>
 
 <!--
