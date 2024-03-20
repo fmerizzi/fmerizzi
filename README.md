@@ -1,6 +1,6 @@
 ### Ciao 🌱, I’m currently working on weather related applications of neural networks
-<p align="center">
-  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/flatgif.gif" width="400" title="hover text">
+<p align="left">
+  <img src="https://github.com/fmerizzi/fmerizzi/blob/main/flatgif.gif" width="600" title="hover text">
 </p>
 
 <!--
