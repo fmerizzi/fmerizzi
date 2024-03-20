@@ -1,10 +1,10 @@
 ### Ciao 🌱
 - 🔭 I’m currently working on weather related applications of neural networks
 
+![Visitor Count]()
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/fmerizzi/count.svg)
+![](https://github.com/fmerizzi/fmerizzi/blob/main/myimage.gif)
 <!--
 **fmerizzi/fmerizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
